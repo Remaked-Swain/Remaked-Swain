@@ -15,7 +15,7 @@ struct SwainYun: Developer {
 > ![swiftBadge](https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white)
 
 > ##### What I Learned
-> * [SwiftUI Components](Portfolio/SwiftUIComponents)
+> * [SwiftUI Components](Portfolio/Portfolio/SwiftUIComponents)
 
 >##### Project
 >* [Let Us Meet!](https://github.com/Remaked-Swain/LetUsMeet.git)
