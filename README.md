@@ -11,7 +11,7 @@ struct SwainYun: Developer {
 ```
 
 ##### What I Learned
-    * [SwiftUI Components](https://github.com/Remaked-Swain/SwiftUIComponents.git)
+* [SwiftUI Components](https://github.com/Remaked-Swain/SwiftUIComponents.git)
 
 ##### Project
-    * [Let Us Meet!](https://github.com/Remaked-Swain/LetUsMeet.git)
+* [Let Us Meet!](https://github.com/Remaked-Swain/LetUsMeet.git)
