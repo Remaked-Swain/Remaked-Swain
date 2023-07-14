@@ -8,7 +8,7 @@ struct SwainYun: Developer {
     let name = "윤금용"
     let state = "Learning SwiftUI"
     let goal = "Making many people happy by creating an app that easily solves difficult things in real life"
-    let project = ["Let Us Meet!"]
+    let project = ["TaskTracker", "Let Us Meet!", "Instagram Clone"]
 }
 ```
 > ##### I'm working with
