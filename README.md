@@ -20,6 +20,6 @@ struct SwainYun: Developer {
 >##### Project
 >* [TaskTracker](https://github.com/Remaked-Swain/TaskTracker.git)
 >* [Weathercaster](https://github.com/Remaked-Swain/Weathercaster.git)
->* [MovieRanking]([https://github.com/Remaked-Swain/CalculatorClone.git](https://github.com/Remaked-Swain/MovieRanking.git))
+>* [MovieRanking](https://github.com/Remaked-Swain/CalculatorClone.git)
 >* [Let Us Meet!](https://github.com/Remaked-Swain/LetUsMeet.git)
 >* [Instagram Clone](https://github.com/Remaked-Swain/InstagramClone.git)
