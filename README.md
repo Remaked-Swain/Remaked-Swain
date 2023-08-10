@@ -15,7 +15,7 @@ struct SwainYun: Developer {
 > ![swiftBadge](https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white)
 
 > ##### What I Learned
-> * [SwiftUI Components](https://github.com/Remaked-Swain/Portfolio/tree/61d441e5c5f0eb68b45eae8a8e490a77e058db80/Portfolio/SwiftUIComponents)
+> * [Portfolio](https://github.com/Remaked-Swain/Portfolio.git)
 
 >##### Project
 >* [TaskTracker](https://github.com/Remaked-Swain/TaskTracker.git)
