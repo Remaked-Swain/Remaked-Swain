@@ -8,7 +8,7 @@ struct SwainYun: Developer {
     let name = "윤금용"
     let state = "Learning SwiftUI"
     let goal = "Making many people happy by creating an app that easily solves difficult things in real life"
-    let project = ["TaskTracker", "Let Us Meet!", "Instagram Clone"]
+    var toyProjects: [ToyProject] = [TaskTracker, Weathercaster, CalculatorClone, InstagramClone, LetUsMeet]
 }
 ```
 > ##### I'm working with
@@ -21,5 +21,5 @@ struct SwainYun: Developer {
 >* [TaskTracker](https://github.com/Remaked-Swain/TaskTracker.git)
 >* [Weathercaster](https://github.com/Remaked-Swain/Weathercaster.git)
 >* [Calculator Clone](https://github.com/Remaked-Swain/CalculatorClone.git)
->* [Let Us Meet!](https://github.com/Remaked-Swain/LetUsMeet.git)
 >* [Instagram Clone](https://github.com/Remaked-Swain/InstagramClone.git)
+>* [Let Us Meet!](https://github.com/Remaked-Swain/LetUsMeet.git)
