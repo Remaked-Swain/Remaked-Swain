@@ -22,4 +22,3 @@ struct SwainYun: Developer {
 >* [Weathercaster](https://github.com/Remaked-Swain/Weathercaster.git)
 >* [Calculator Clone](https://github.com/Remaked-Swain/CalculatorClone.git)
 >* [Instagram Clone](https://github.com/Remaked-Swain/InstagramClone.git)
->* [Let Us Meet!](https://github.com/Remaked-Swain/LetUsMeet.git)
