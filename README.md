@@ -12,7 +12,7 @@ struct SwainYun: Developer {
 }
 ```
 > ##### I'm working with
-> ![swiftBadge](https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white)
+> <a href="https://developer.apple.com/swift/" target="_blank"><img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"></a>
 
 > ##### What I Learned
 > * [Portfolio](https://github.com/Remaked-Swain/Portfolio.git)
