@@ -27,4 +27,4 @@ struct SwainYun: Developer {
 >* [Instagram Clone](https://github.com/Remaked-Swain/InstagramClone.git)
 
 > ### Stats
-> ![Stats summary](https://github-readme-stats.vercel.app/api?username=Remaked-Swain&theme=nightowl&show_icons=true)
+> ![Stats summary](https://github-readme-stats.vercel.app/api?username=Remaked-Swain&theme=outrun&show_icons=true)
