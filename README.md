@@ -18,13 +18,13 @@ struct SwainYun: Developer {
 > <a href="https://developer.apple.com/kr/xcode/" target="_blank"><img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=Xcode&logoColor=white"></a>
 
 > **What I Learned**
-> [Portfolio](https://github.com/Remaked-Swain/Portfolio.git)
+> * [Portfolio](https://github.com/Remaked-Swain/Portfolio.git)
 
 > **Project**
-> [TaskTracker](https://github.com/Remaked-Swain/TaskTracker.git)
-> [Weathercaster](https://github.com/Remaked-Swain/Weathercaster.git)
-> [Calculator Clone](https://github.com/Remaked-Swain/CalculatorClone.git)
-> [Instagram Clone](https://github.com/Remaked-Swain/InstagramClone.git)
+> * [TaskTracker](https://github.com/Remaked-Swain/TaskTracker.git)
+> * [Weathercaster](https://github.com/Remaked-Swain/Weathercaster.git)
+> * [Calculator Clone](https://github.com/Remaked-Swain/CalculatorClone.git)
+> * [Instagram Clone](https://github.com/Remaked-Swain/InstagramClone.git)
 
 > **Stats**
 > ![Stats summary](https://github-readme-stats.vercel.app/api?username=Remaked-Swain&theme=outrun&show_icons=true)
