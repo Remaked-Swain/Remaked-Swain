@@ -8,7 +8,7 @@ struct SwainYun: Developer {
     let name = "윤금용"
     let state = "Learning SwiftUI"
     let goal = "Making many people happy by creating an app that easily solves difficult things in real life"
-    var toyProjects: [ToyProject] = [TaskTracker, Weathercaster, CalculatorClone, InstagramClone, LetUsMeet]
+    var toyProjects: [ToyProject] = [TaskTracker, Weathercaster, CalculatorClone, InstagramClone]
 }
 ```
 > **I'm working with**
