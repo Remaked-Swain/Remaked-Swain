@@ -24,7 +24,8 @@ struct SwainYun: Developer {
       </p>
 
 > **What I Learned**
-> * [Portfolio](https://github.com/Remaked-Swain/Portfolio.git)
+> * [Portfolio](https://github.com/Remaked-Swain/Portfolio.git) ( .infinity )
+> * SeSAC iOS 앱개발자 데뷔과정 (23년 9월 ~ 23년 2월)
 
 > **Project**
 > * [TaskTracker](https://github.com/Remaked-Swain/TaskTracker.git)
