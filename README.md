@@ -30,12 +30,11 @@ struct SwainYun: Developer {
 > * [Portfolio](https://github.com/Remaked-Swain/Portfolio.git) ( .infinity )
 
 > **Project**
-> * [TaskTracker](https://github.com/Remaked-Swain/TaskTracker.git)
-> * [Weathercaster](https://github.com/Remaked-Swain/Weathercaster.git)
-> * [Calculator Clone](https://github.com/Remaked-Swain/CalculatorClone.git)
-> * [Instagram Clone](https://github.com/Remaked-Swain/InstagramClone.git)
-> * [MagicIDR](https://github.com/Remaked-Swain/OpticalCharacterRecognitionApp.git)
-> * [MovieFinder](https://github.com/Remaked-Swain/MovieFinder.git)
+> * [TaskTracker](https://github.com/Remaked-Swain/TaskTracker.git) 일정 관리 앱
+> * [Weathercaster](https://github.com/Remaked-Swain/Weathercaster.git) 날씨 정보 앱
+> * [Calculator Clone](https://github.com/Remaked-Swain/CalculatorClone.git) 계산기 클론 + 단위 변환 기능
+> * [MagicIDR](https://github.com/Remaked-Swain/OpticalCharacterRecognitionApp.git) 문서, 명함, 신분증 탐지 앱
+> * [MovieFinder](https://github.com/Remaked-Swain/MovieFinder.git) Clean Architecture + MVVM + DI in SwiftUI
 
 > **Stats**
 * ![Stats summary](https://github-readme-stats.vercel.app/api?username=Remaked-Swain&theme=outrun&show_icons=true)
