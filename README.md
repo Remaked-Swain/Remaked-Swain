@@ -1,13 +1,15 @@
 # 🧑🏻‍💻 Hello, I'm SwainYun.
 
-* **iOS developer from Korea, who will make worldwide exclusive app.**
-* **I'm interested in making people live a convenient life.**
-* **I want to create a relationship-oriented app**
+#### 코드에 담긴 의미를 찾는 iOS 개발자, 윤금용입니다.
+* SwiftUI로 iOS 앱 개발을 시작해, 프로젝트를 통해 획득한 실질적인 Swift 및 UI/UX 디자인 경험을 보유하고 있습니다.
+* 코드에 담긴 의미를 찾아 기술적 구조를 파악하고 문제를 창의적으로 해결하는데 관심이 있습니다.
+* 비즈니스와 개발 역량을 함께 성장시키는 것을 중요하게 생각합니다. 이를 위해 공식 문서를 기반으로 학습하여 문제 해결의 의미가 담긴 서비스를 개발합니다.
+* 비즈니스는 혼자 만들어가는 것이 아님을 잘 알기에 다양한 직무의 구성원들과 적극적으로 협업합니다.
+* 관련 기술에 대해 논의하고 설명하는 것을 좋아합니다. 새로운 지식을 습득하거나 구성원과 공유하는 기회를 소중히 생각합니다.
 ---------------------------------------------------------------------
 ```Swift
 struct SwainYun: Developer {
     let name = "윤금용"
-    let state = "Learning SwiftUI"
     let goal = "Making many people happy by creating an app that easily solves difficult things in real life"
     var toyProjects: [ToyProject] = [TaskTracker, Weathercaster, CalculatorClone, InstagramClone]
 }
@@ -24,14 +26,16 @@ struct SwainYun: Developer {
   </p>
 
 > **What I Learned**
-> * [Portfolio](https://github.com/Remaked-Swain/Portfolio.git) ( .infinity )
 > * SeSAC iOS 앱개발자 데뷔과정 (23년 9월 ~ 23년 2월)
+> * [Portfolio](https://github.com/Remaked-Swain/Portfolio.git) ( .infinity )
 
 > **Project**
 > * [TaskTracker](https://github.com/Remaked-Swain/TaskTracker.git)
 > * [Weathercaster](https://github.com/Remaked-Swain/Weathercaster.git)
 > * [Calculator Clone](https://github.com/Remaked-Swain/CalculatorClone.git)
 > * [Instagram Clone](https://github.com/Remaked-Swain/InstagramClone.git)
+> * [MagicIDR](https://github.com/Remaked-Swain/OpticalCharacterRecognitionApp.git)
+> * [MovieFinder](https://github.com/Remaked-Swain/MovieFinder.git)
 
 > **Stats**
 * ![Stats summary](https://github-readme-stats.vercel.app/api?username=Remaked-Swain&theme=outrun&show_icons=true)
