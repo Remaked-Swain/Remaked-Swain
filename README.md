@@ -10,8 +10,8 @@
 ```Swift
 struct SwainYun: Developer {
     let name = "윤금용"
-    let goal = "Making many people happy by creating an app that easily solves difficult things in real life"
-    var toyProjects: [ToyProject] = [TaskTracker, Weathercaster, CalculatorClone, InstagramClone]
+    var goal = "Making many people happy by creating an app that easily solves difficult things in real life"
+    var toyProjects: [ToyProject] = [TaskTracker, Weathercaster, CalculatorClone, MagicIDR, MovieFinder]
 }
 ```
 > **I'm working with**
