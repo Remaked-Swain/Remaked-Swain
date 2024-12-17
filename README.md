@@ -33,6 +33,7 @@ struct SwainYun: Developer {
 > * [Calculator Clone](https://github.com/Remaked-Swain/CalculatorClone.git) 계산기 클론 + 단위 변환 기능
 > * [MagicIDR](https://github.com/Remaked-Swain/OpticalCharacterRecognitionApp.git) 문서, 명함, 신분증 탐지 앱
 > * [MovieFinder](https://github.com/Remaked-Swain/MovieFinder.git) Clean Architecture + MVVM + DI in SwiftUI
+> * [Will Memorize](https://github.com/Remaked-Swain/Vocabulary) 외국어 암기용 단어장 앱
 
 > **Stats**
 * ![Stats summary](https://github-readme-stats.vercel.app/api?username=Remaked-Swain&theme=outrun&show_icons=true)
