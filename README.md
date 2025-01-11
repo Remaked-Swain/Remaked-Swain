@@ -35,5 +35,4 @@ struct SwainYun: Developer {
 > * [Will Memorize](https://github.com/Remaked-Swain/Vocabulary) 외국어 암기용 단어장 앱
 
 > **Stats**
-* ![Stats summary](https://github-readme-stats.vercel.app/api?username=Remaked-Swain&theme=outrun&show_icons=true)
 * [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRemaked-Swain&count_bg=%23FB0000&title_bg=%23555555&icon=apple.svg&icon_color=%23FFFFFF&title=Visits&edge_flat=true)](https://hits.seeyoufarm.com)
