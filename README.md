@@ -33,6 +33,3 @@ struct SwainYun: Developer {
 > * [MagicIDR](https://github.com/Remaked-Swain/OpticalCharacterRecognitionApp.git) 문서, 명함, 신분증 탐지 앱
 > * [MovieFinder](https://github.com/Remaked-Swain/MovieFinder.git) Clean Architecture + MVVM + DI in SwiftUI
 > * [Will Memorize](https://github.com/Remaked-Swain/Vocabulary) 외국어 암기용 단어장 앱
-
-> **Stats**
-* [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRemaked-Swain&count_bg=%23FB0000&title_bg=%23555555&icon=apple.svg&icon_color=%23FFFFFF&title=Visits&edge_flat=true)](https://hits.seeyoufarm.com)
