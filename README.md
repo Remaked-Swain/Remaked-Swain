@@ -24,7 +24,7 @@ struct SwainYun: Developer {
   </p>
 
 > **What I Learned**
-> * SeSAC iOS 앱개발자 데뷔과정 (23년 9월 ~ 23년 2월)
+> * SeSAC iOS 앱개발자 데뷔과정 (23년 9월 ~ 24년 2월)
 
 > **Project**
 > * [TaskTracker](https://github.com/Remaked-Swain/TaskTracker.git) 일정 관리 앱
